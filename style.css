@@ -1,0 +1,21 @@
+*{
+    background-color: #b78c8c;
+    color: rgb(19, 18, 18);
+    box-sizing: border-box;
+    margin: 20px;
+    padding: 10px;
+}
+h1 {
+    font-size: 3em;
+    text-align: center;
+}
+.nav-title {
+    font-size: 2em;
+    text-align: center;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+}
